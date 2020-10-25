@@ -1,8 +1,6 @@
 site: veethika portfolio
 
 url: https://veethika.github.io/
-baseurl: /mywebsite
-
 
 collections:
   pages:
