@@ -1,7 +1,7 @@
 site: veethika portfolio
 
 url: veethika.com
-baseurl:
+baseurl: veethika.com/index.html
 
 collections:
   pages:
