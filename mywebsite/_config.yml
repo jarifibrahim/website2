@@ -1,7 +1,7 @@
 site: veethika portfolio
 
-url: https://veethika.github.io/website
-baseurl: /website
+url: https://veethika.github.io/
+baseurl: /mywebsite
 
 
 collections:
