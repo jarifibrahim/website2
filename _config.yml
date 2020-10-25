@@ -1,6 +1,7 @@
-site: Veethika Portfolio
+site: Veethika's Portfolio
 
-url: https://veethika.github.io/
+url: 
+baseurl: 
 
 collections:
   pages:
