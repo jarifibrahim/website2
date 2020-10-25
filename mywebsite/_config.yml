@@ -1,8 +1,8 @@
 site: veethika portfolio
 
-url:
-baseurl:
-repository: "Veethika/website"
+url: https://veethika.github.io/website
+baseurl: /website
+
 
 collections:
   pages:
