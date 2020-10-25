@@ -1,7 +1,5 @@
 site: veethika portfolio
 
-url: https://veethika.github.io/
-
 collections:
   pages:
     output: true
